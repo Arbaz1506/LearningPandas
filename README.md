@@ -231,7 +231,7 @@ Key insights for optimal Pandas usage:
 - Vectorized operations are significantly faster than loops
 - Use appropriate data types to reduce memory usage
 - GroupBy operations are more efficient than manual iteration
-- Merge operations have different performance based on key types
+- Merge operations have different performance based on key types.
 - Use copy() when creating independent copies of data
 - Avoid chained indexing; use loc/iloc for clarity
 - Consider chunking large datasets for memory efficiency
